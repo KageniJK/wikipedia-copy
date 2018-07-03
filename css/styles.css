@@ -1,7 +1,29 @@
 .img-size{
-  max-width: 40%
+  width: 30%
 }
 
 .top-menu{
   columns: 3;
+}
+
+.card + .card{
+  padding: 0 0 0 5px;
+}
+.container{
+  padding:5px;
+  width: 80 %;
+  align-self: auto;
+
+}
+.sidebar{
+  margin-left: 0px;
+  width: 10%;
+}
+
+.no-dot{
+  list-style-type: none;
+}
+
+body{
+  background-color: #E0FFFF;
 }
